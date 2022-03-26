@@ -1,0 +1,57 @@
+[
+    {
+        "titulo": "pelicula 1",
+        "atores": [
+            "actor 1",
+            "actor 2",
+            "actor 3"
+        ],
+        "ano": 2000,
+        "detalhes": "ythtenyukshsr",
+        "premiacoes": "00000000"
+    },
+    {
+        "titulo": "pelicula 2",
+        "atores": [
+            "actor 4",
+            "actor 5",
+            "actor 6"
+        ],
+        "ano": 2006,
+        "detalhes": "gtrhuki7gttsg",
+        "premiacoes": "1111111111111"
+    },
+    {
+        "titulo": "pelicula 3",
+        "atores": [
+            "actor 7",
+            "actor 8",
+            "actor 9"
+        ],
+        "ano": 2010,
+        "detalhes": "grthtyjuyfeg",
+        "premiacoes": "2222222222222"
+    },
+    {
+        "titulo": "pelicula 4",
+        "atores": [
+            "actor 10",
+            "actor 11",
+            "actor 12"
+        ],
+        "ano": 2000,
+        "detalhes": "trbyrgeafagthyj",
+        "premiacoes": "3333333333333333"
+    },
+    {
+        "titulo": "pelicula 5",
+        "atores": [
+            "actor 13",
+            "actor 14",
+            "actor 15"
+        ],
+        "ano": 2021,
+        "detalhes": "trhytgegtrgrt",
+        "premiacoes": "4444444444444444"
+    }
+]
